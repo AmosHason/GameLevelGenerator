@@ -9,7 +9,7 @@ A custom implementation (with some modifications) of the algorithm proposed in L
 
 ## Author
 
-* **Amos Hason** - [AmosHason](https://github.com/AmosHason/)
+* **[Amos Hason](https://github.com/AmosHason/)**
 
 ## License
 
